@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  pipeline_01
+  pool_01
 
 variables:
   buildConfiguration: 'Release'
